@@ -1,7 +1,7 @@
 # Discord-Rich_Presence
 a simple way of being able to see your cpu and ram usage in rich presence 
 
-![preview](main/preview.png)
+![preview](images/preview.PNG)
 
 ## how to use it
 1. go to [discord developer portal](https://discord.com/developers/applications)
